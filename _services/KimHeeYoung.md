@@ -1,11 +1,12 @@
 ---
 title: "김희영결혼식"
 date: 2018-11-18T12:33:46+10:00
-catagories : 김희영 
-tag: wedding, 
+catagories : [김희영] 
+tag: [wedding, ]
 weight: 1
 ---
-
+# 김희영 결혼식 (2021.03.10 ) 여의도 글래드호텔 
+![1](/images/스크린샷%202023-08-10%20오전%202.27.22.png)
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)

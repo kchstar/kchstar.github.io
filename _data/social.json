@@ -8,5 +8,10 @@
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/chunho.kim.94?locale=ko_KR",
+    "image": "images/social/facebook.svg"
   }
 ]

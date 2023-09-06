@@ -1,12 +1,15 @@
 ---
 title: "김희수 결혼식"
-catagories: 김희수  
-tag: wedding,
+catagories: [김희수]  
+tag: [wedding,]
 date: 2019-01-28T15:15:26+10:00
 weight: 2
+toc: true
 ---
-
+# 김희수 결혼식 (2022.05.07) 여의도 글래드 호텔
+![1](/images/team/cristian-newman-94319-unsplash.jpg)
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
+![2](/images/team/sage-kirk-485982-unsplash.jpg)
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet
