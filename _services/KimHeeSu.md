@@ -1,24 +1,34 @@
 ---
-title: "김희수 결혼식"
+title: "김희수 블로그"
 catagories: [김희수]  
-tag: [wedding,]
+tag: [blog, wedding,]
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 toc: true
 ---
 # 김희수 결혼식 (2022.05.07) 여의도 글래드 호텔
-![1](/images/team/cristian-newman-94319-unsplash.jpg)
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-![2](/images/team/sage-kirk-485982-unsplash.jpg)
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+
+
+# 이수용 생일 축하식사 (2023.03.02)
+![1](/assets/images/temp_1677730317612.-770429718.jpeg)
+![2](/assets/images/temp_1677730317815.-770429718.jpeg)
+![3](/assets/images/temp_1677730317861.-770429718.jpeg)
+![4](/assets/images/temp_1677730317878.-770429718.jpeg)
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# pinterest 
+[more like this](https://www.pinterest.co.kr/pin/1000432504708906300/)
+[Pinterest Home](https://www.pinterest.co.kr/)
 
-Financial accounting and financial reporting are often used as synonyms.
+# Wikipedia 
+[WikipediA](https://www.wikipedia.org/)
+> wikipedia
+> 위키 낱말 사전  
+> 위키 여행 
+
+> # TikTok
+> [TikTok](https://www.tiktok.com/tag/trande)
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
@@ -62,6 +72,15 @@ The statement of cash flows considers the inputs and outputs in concrete cash wi
 | _Monday_    | `Tuesday` | **Wednesday**   |
 | 1           | 2         | 3               |
 
+## table form
+- cash 
+
+| subject |   author   |   explain    |
+| ------- | ---------  |  -------   |
+| _momday_| `Tuesday`  | **Wednesday** |
+| 1       | 2          | 3            |
+
+
 **Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
 - Cash inflow: $20
@@ -90,3 +109,5 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
 - goodwill
 
 Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+# importent
+> Impotant: the cash 

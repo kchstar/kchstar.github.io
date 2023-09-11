@@ -1,28 +1,28 @@
 ---
-title: "Mergers"
+title: "김 천 호 블 로  그😀 "
 date: 2019-02-28T15:15:34+10:00
 weight: 3
 catagories: [김천호]
 tag: [blog,]
 toc: true 
 ---
+# 케이 체어 블로그 
+[kchair777.github.io](https://kchair777.github.io/)
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Objectives
-
+# emoji + mac 
+> control + commend + space 
+> 
 Financial accounting and financial reporting are often used as synonyms.
 
+
+```
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
 3. According to the European Accounting Association:
+```
 
-## Relevance
-
+## 박 문 호 교수 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 
 > The ingredients of relevance are the predictive value and confirmatory value.
@@ -87,3 +87,14 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
 - goodwill
 
 Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+
+# 최준식 교수
+ [기독교도 샤머니즘으로 ](https://www.youtube.com/watch?v=PmiuRzYvq5U)
+ - 붓 과 춤  
+ - 아일렌드 사람과 비숫하다.  
+ -  단 군 이 무 당 이 엇 다 
+ -  한 국 인 행 동 은 유 교 식  이 고        생 각 은 불 교 식 으 로 하 고    문 제 부 닥 치 면 무 당 한 데 간 다. 
+
+
+# 김성철 교수
+- [불 교 의 특 징? ]( https://www.youtube.com/watch?v=esBWYB2F06g)
